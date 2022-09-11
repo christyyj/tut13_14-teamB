@@ -7,9 +7,6 @@
 * [Libraries](#libraries)
 * [Dataset](#dataset)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-<!-- * [License](#license) -->
-
 
 ## General Information
 Source code for the whole project is available in the main.ipynb file, including the segmentation and classification model.
@@ -31,4 +28,4 @@ The color of traffic sign and category (0 - 57) would be classified based on the
 
 
 ## Screenshots
-(./Segmentation Result_Sample.png)
+![alt text](./Segmentation Result_Sample.png)
