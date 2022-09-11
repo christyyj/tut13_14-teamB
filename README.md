@@ -5,7 +5,6 @@
 * [General Info](#general-information)
 * [Libraries](#libraries)
 * [Dataset](#dataset)
-* [Screenshots](#screenshots)
 
 ## General Information
 Source code for the whole project is available in the main.ipynb file, including the segmentation and classification model.
@@ -25,7 +24,3 @@ Dataset [_here_](https://drive.google.com/drive/folders/1ffKs7IHSph3TxakJhKlRz6X
 - demo_set: the 70 test images from the sign folder + 20 sign images retrieved online
 - tsrd_train: 4170 sign images to train the classifier
 - tsrd_test: 1994 sign images to test the classifier
-
-
-## Screenshots
-![alt text](/Segmentation Result_Sample.png)
