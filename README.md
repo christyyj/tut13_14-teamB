@@ -28,4 +28,4 @@ The color of traffic sign and category (0 - 57) would be classified based on the
 
 
 ## Screenshots
-![alt text](Segmentation Result_Sample.png)
+![alt text](/Segmentation Result_Sample.png)
