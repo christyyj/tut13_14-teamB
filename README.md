@@ -1,6 +1,6 @@
 # Traffic Sign Detection and Recognition System
 > This project emphasizes on the segmentation of traffic sign images based on the Chinese Traffic Sign Database (CTSD). The classification model is based on the SVM classifier trained with HOG and color features.
-> Live demo [_here_](https://www.example.com). <!-- demo link -->
+> Dataset [_here_](https://drive.google.com/drive/folders/1ffKs7IHSph3TxakJhKlRz6XzholLMfAU?usp=sharing). <!-- demo link -->
 
 ## Table of Contents
 * [General Info](#general-information)
