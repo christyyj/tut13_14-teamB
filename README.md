@@ -9,6 +9,7 @@
 ## General Information
 Source code for the whole project is available in the main.ipynb file, including the segmentation and classification model.
 The color of traffic sign and category (0 - 57) would be classified based on the input image.
+Segmentation Model has been tested with 90 images from the CTSD, the image files can be read based on the "SignSeg90Annotation.txt" file
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -20,7 +21,5 @@ The color of traffic sign and category (0 - 57) would be classified based on the
 ## Dataset
 Dataset [_here_](https://drive.google.com/drive/folders/1ffKs7IHSph3TxakJhKlRz6XzholLMfAU?usp=sharing). <!-- demo link -->
 - category_sample: sample sign images of the 58 categories based on the CTSD dataset
-- sign: 70 test images to evaluate the classification model
-- demo_set: the 70 test images from the sign folder + 20 sign images retrieved online
 - tsrd_train: 4170 sign images to train the classifier
 - tsrd_test: 1994 sign images to test the classifier
